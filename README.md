@@ -13,7 +13,7 @@ It was found that a threshold value of 199 was the best balance and produced a t
 ## Test Case
 
 The bundled files can be used as a test case:
-
+| input | file |
 |-----------|---------------|
 | input image | parenthood.ppm |
 | template image | parenthood_e_template.ppm |
